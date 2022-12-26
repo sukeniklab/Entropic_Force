@@ -1,0 +1,7 @@
+Protein,Directory,Sequence,Resitype,Psivalue,Repeats
+0.33fl,F:\DATA_F\NDKnature\0.33fl-summary,KVSSKRIPYA,['BB'],"['2', '1', '0', '-2', '-1']",5
+r1,F:\DATA_F\NDKnature\r1-summary,KPSKSPKSISPKPALDPGFPYVNREQKVKI,['BB'],"['3', '2', '1', '0.5', '0', '-3', '-2', '-1', '-0.5']",5
+fl,F:\DATA_F\NDKnature\fl-summary,KVSSKRIPYAPSGEIPKFSLQDPPNKKPKV,['BB'],"['-0.5', '-1', '-2', '-3', '0', '0.5', '1', '2', '3']",5
+2fl,F:\DATA_F\NDKnature\2fl-summary,KVSSKRIPYAPSGEIPKFSLQDPPNKKPKVKVSSKRIPYAPSGEIPKFSLQDPPNKKPKV,['BB'],"['2', '1', '0', '-2', '-1']",5
+r2,F:\DATA_F\NDKnature\r2-summary,DKKPYVFLSPNPKSPIKVQKKPSEAGRPIS,['BB'],"['3', '2', '1', '0.5', '0', '-3', '-2', '-1', '-0.5']",5
+0.5fl,F:\DATA_F\NDKnature\0.5fl-summary,KVSSKRIPYAPSGEI,['BB'],"['2', '1', '0', '-2', '-1']",5
