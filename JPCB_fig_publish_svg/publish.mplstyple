@@ -1,0 +1,19 @@
+
+axes.titlesize : 60
+axes.labelsize : 60
+lines.linewidth : 5
+lines.markersize : 10
+xtick.labelsize : 50
+ytick.labelsize : 50
+figure.figsize : 10, 10
+legend.loc : upper right
+legend.fontsize : 30
+xtick.major.size : 20
+xtick.minor.size : 10
+xtick.major.width : 7
+xtick.minor.width : 7
+ytick.major.size : 20
+ytick.minor.size : 10
+ytick.major.width : 7
+ytick.minor.width : 7
+axes.linewidth : 7
