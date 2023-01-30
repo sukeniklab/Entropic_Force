@@ -49,6 +49,7 @@ if __name__=="__main__":
     pwd=r'F:\DATA_F\Entropy_Force_raw_data\Analysis_script\Example\1_pdb+traj'
     #pwd=r'F:\DATA_F\Entropy_Force_raw_data\Analysis_script\Example\2_pdb_only'
     distance_d=0
+    # if theta = 1 degree angle_theta should be 90 degree - 1 degree
     angle_theta=np.pi / 2 - np.pi / 180
     ratio,frame=enhanced_sampling_surface(pwd,distance_d,angle_theta,
                                           pdb_name='GS16.pdb',
